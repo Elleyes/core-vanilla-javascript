@@ -18,10 +18,10 @@ Your objectives for the day is to achieve:
 
 ### Plan
 
-- [ ] Signup for [Udacity Javascript Basics][udacity]
-- [ ] Complete [Getting up and running & Problem Set 0][udacity]
-- [ ] Complete [Data Types and Problem Set 1][udacity]
-- [ ] Complete [Flow Control and Problem Set 2][udacity]
+- [X] Signup for [Udacity Javascript Basics][udacity]
+- [X] Complete [Getting up and running & Problem Set 0][udacity]
+- [X] Complete [Data Types and Problem Set 1][udacity]
+- [X] Complete [Flow Control and Problem Set 2][udacity]
 - [ ] Complete [Quiz: Relationships][udacity]
 - [ ] Complete [Quiz: Astronaut Arrays][udacity]
 - [ ] Complete [Quiz: Pagespeed Insights][udacity]
@@ -29,12 +29,12 @@ Your objectives for the day is to achieve:
 
 ### Stretch
 
-- [ ] Skim [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#practice) and complete the final challenge
+- [X] Skim [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#practice) and complete the final challenge
 - [ ] Complete [Final Project][udacity]
-- [ ] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
+- [X] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
 - [ ] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
 - [ ] Read Chapters 1,2,3 of [Eloquent Javascript][el]
-- [ ] Complete [CodeCademy's Learn Javasript](https://www.codecademy.com/learn/javascript)
+- [X] Complete [CodeCademy's Learn Javasript](https://www.codecademy.com/learn/javascript)
 
 
 ## Day 2: Arrays, Objects, and lots of Practice
@@ -78,7 +78,7 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 ### Stretch
 
-- [ ] Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
+- [X] Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
 - [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [ ] Watch the first 11 [Fundamentals Videos](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
 - [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
