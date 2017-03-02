@@ -22,9 +22,9 @@ Your objectives for the day is to achieve:
 - [X] Complete [Getting up and running & Problem Set 0][udacity]
 - [X] Complete [Data Types and Problem Set 1][udacity]
 - [X] Complete [Flow Control and Problem Set 2][udacity]
-- [ ] Complete [Quiz: Relationships][udacity]
-- [ ] Complete [Quiz: Astronaut Arrays][udacity]
-- [ ] Complete [Quiz: Pagespeed Insights][udacity]
+- [X] Complete [Quiz: Relationships][udacity]
+- [X] Complete [Quiz: Astronaut Arrays][udacity]
+- [X] Complete [Quiz: Pagespeed Insights][udacity]
 
 
 ### Stretch
