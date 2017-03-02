@@ -33,7 +33,7 @@ Your objectives for the day is to achieve:
 - [ ] Complete [Final Project][udacity]
 - [X] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
 - [ ] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
-- [ ] Read Chapters 1,2,3 of [Eloquent Javascript][el]
+- [X] Read Chapters 1,2,3 of [Eloquent Javascript][el]
 - [X] Complete [CodeCademy's Learn Javasript](https://www.codecademy.com/learn/javascript)
 
 
