@@ -32,7 +32,7 @@ Your objectives for the day is to achieve:
 - [X] Skim [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#practice) and complete the final challenge
 - [ ] Complete [Final Project][udacity]
 - [X] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
-- [ ] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
+- [X] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
 - [X] Read Chapters 1,2,3 of [Eloquent Javascript][el]
 - [X] Complete [CodeCademy's Learn Javasript](https://www.codecademy.com/learn/javascript)
 
